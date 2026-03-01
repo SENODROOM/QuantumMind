@@ -1,14 +1,14 @@
-# AnonymousThinker 🧠
+# QuantumMind 🧠
 
-AnonymousThinker is a premium AI reasoning platform designed to provide structured, logical responses with a specialized focus on defending and explaining Islamic principles through reason and scholarly knowledge.
+QuantumMind is a premium AI reasoning platform designed to provide structured, logical responses with a specialized focus on coding assistance, technical architecture, and solving real-world complex tasks through advanced reasoning.
 
 ## ✨ Key Features
 
-- **Dual-Model Comparative Analysis**: Compare responses from a personal logic model (Llama 3.1 8B) and a powerful reasoning model (DeepSeek-R1-70B) side-by-side.
-- **Sovereign AI Hub**: A centralized command center for administrators to define the AI's persona, logical framework, and core strategy.
-- **Knowledge Base (RAG)**: Ground AI responses in scholarly Islamic knowledge by uploading PDFs and text files globally.
-- **Admin-Restricted Training**: Only authorized developers can train the AI or modify its core directives.
-- **Glassmorphic UI**: A premium, modern interface with dark mode, fluid animations, and a focus on readability.
+- **Dual-Model Comparative Analysis**: Compare responses from a highly efficient coding model and a powerful reasoning model side-by-side.
+- **Quantum Logic Hub**: A centralized command center for administrators to define the AI's technical persona, logical framework, and core strategy.
+- **Knowledge Base (RAG)**: Ground AI responses in technical documentation and real-world data by uploading PDFs and text files.
+- **Administrative Control**: Only authorized developers can modify the AI's core directives or technical training data.
+- **Cyber-Glass UI**: A premium, modern interface with dark mode, fluid animations, and a focus on developer productivity.
 
 ---
 
@@ -35,7 +35,7 @@ Follow these steps to get the project running on your local machine.
 ### 2. Clone the Repository
 ```bash
 git clone <repository-url>
-cd AnonymousThinker
+cd QuantumMind
 ```
 
 ### 3. Backend Setup
@@ -92,13 +92,13 @@ If you configured `ADMIN_EMAIL` and `ADMIN_PASSWORD` in your `.env`, you can log
 
 ---
 
-## 📚 Global Knowledge Training
+## 📚 Technical Knowledge Training
 
-To ensure the AI prioritizes Islamic logical proofs:
+To ensure the AI prioritizes technical accuracy and coding best practices:
 1. Login as an Admin.
 2. Click **"Train AI"** in the sidebar.
-3. Use the **Upload Zone** to ingest PDFs of scholarly Islamic works.
-4. Update the **"Core Logic & Strategy"** textarea to define how the AI should refute specific claims.
+3. Use the **Upload Zone** to ingest technical documentation or codebases.
+4. Update the **"Core Logic & Strategy"** textarea to define technical reasoning patterns.
 5. Click **"Commit Changes to Core"** to synchronize the AI's logic globally.
 
 ---

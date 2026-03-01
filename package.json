@@ -1,7 +1,7 @@
 {
-  "name": "anonymousthinker",
+  "name": "quantummind",
   "version": "1.0.0",
-  "description": "AnonymousThinker - Full Stack AI Chat Application",
+  "description": "QuantumMind - Premium AI Coding & Reasoning Platform",
   "scripts": {
     "install-all": "npm install --prefix backend && npm install --prefix frontend",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
